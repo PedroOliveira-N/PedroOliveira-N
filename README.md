@@ -1,4 +1,4 @@
-# PedroLucas-O-
+# PedroLucas-O
 
 <div align="center">
   <a href="https://github.com/PedroLucas-O">
