@@ -1,4 +1,4 @@
-# Pedro Oliveira
+<h1 align="center">Pedro Oliveira</h1>
 
 <div align="center">
   <a href="https://github.com/PedroLucas-O">
