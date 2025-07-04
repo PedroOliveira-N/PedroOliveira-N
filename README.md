@@ -17,3 +17,9 @@
   <img align="center" alt="Figma" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
+<div>
+  <p>
+    Olá! Sou Pedro Oliveira, estudande de <strong>Programação Web (Front-End)</strong>. Saiba um pouco mais sobre mim em meu <a href="https://pedro-oliveira-portfolio.vercel.app/index.html">Portfólio Web</a>
+  </p>
+</div>
+
