@@ -18,6 +18,7 @@
 </div>
 
 <div align="center">
+  <br/>
   <p>
     Olá! Sou Pedro Oliveira, estudande de <strong>Programação Web (Front-End)</strong>. Saiba um pouco mais sobre mim em meu <a style="color: whiteblue;" href="https://pedro-oliveira-portfolio.vercel.app/index.html">Portfólio Web</a>
   </p>
