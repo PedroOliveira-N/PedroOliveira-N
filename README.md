@@ -7,8 +7,9 @@
   </div>
 
 <div align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Md" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -19,7 +20,7 @@
 
 <div align="center">
   <p>
-    Olá! Sou Pedro Oliveira, estudande de <strong>Programação Web (Front-End)</strong>. Saiba um pouco mais sobre mim em meu <a href="https://pedro-oliveira-portfolio.vercel.app/index.html">Portfólio Web</a>
+    Olá! Sou Pedro Oliveira, estudande de <strong>Programação Web (Front-End)</strong>. Saiba um pouco mais sobre mim em meu <a style="color: whiteblue;" href="https://pedro-oliveira-portfolio.vercel.app/index.html">Portfólio Web</a>
   </p>
 </div>
 
