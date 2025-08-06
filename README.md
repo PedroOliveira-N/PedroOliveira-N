@@ -17,7 +17,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Chakra" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chakraui/chakraui-original.svg" />
   <img align="center" alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-  <img align="center" alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+  <img align="center" alt="Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-line.svg" />
   <img align="center" alt="Figma" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
