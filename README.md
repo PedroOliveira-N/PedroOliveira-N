@@ -1,10 +1,10 @@
 # <h1 align="center">Pedro Oliveira</h1>
 
-<div align="center">
-  <a href="https://github.com/PedroOliveira-N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroOliveira-N&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira-N&layout=compact&langs_count=7&theme=cobalt"/>
-  </a>
+  <div align="center">
+    <a href="https://github.com/PedroOliveira-N">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroOliveira-N&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira-N&layout=compact&langs_count=7&theme=cobalt"/>
+    </a>
   </div>
 
 <div align="center"><br>
